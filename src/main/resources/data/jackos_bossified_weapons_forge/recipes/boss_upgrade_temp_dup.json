@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "jackos_bossified_weapons_forge:boss_upgrade_temp"
+    },
+    "c": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "jackos_bossified_weapons_forge:boss_upgrade_temp",
+    "count": 2
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "bab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bone"
+    },
+    "b": {
+      "item": "jackos_bossified_weapons_forge:enchanted_star_bottle"
+    },
+    "c": {
+      "item": "minecraft:coal"
+    },
+    "d": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "jackos_bossified_weapons_forge:enchanted_netherite_ingot",
+    "count": 1
+  }
+}

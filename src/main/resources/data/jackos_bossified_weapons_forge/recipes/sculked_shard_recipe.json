@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sculk"
+    },
+    "b": {
+      "item": "jackos_bossified_weapons_forge:weathered_bone"
+    },
+    "c": {
+      "item": "minecraft:echo_shard"
+    }
+  },
+  "result": {
+    "item": "jackos_bossified_weapons_forge:sculked_shard",
+    "count": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "ded",
+    "dfd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:echo_shard"
+    },
+    "b": {
+      "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    "c": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "e": {
+      "item": "minecraft:dragon_breath"
+    },
+    "f": {
+      "item": "minecraft:heart_of_the_sea"
+    }
+  },
+  "result": {
+    "item": "jackos_bossified_weapons_forge:boss_upgrade_temp",
+    "count": 1
+  }
+}

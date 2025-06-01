@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "jackos_bossified_weapons_forge:boss_upgrade_temp"
+  },
+  "base": {
+    "item": "minecraft:netherite_hoe"
+  },
+  "addition": {
+    "item": "jackos_bossified_weapons_forge:enchanted_netherite_ingot"
+  },
+  "result": {
+    "item": "jackos_bossified_weapons_forge:withering_harvest"
+  }
+}

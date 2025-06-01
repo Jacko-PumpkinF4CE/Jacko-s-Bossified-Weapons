@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "jackos_bossified_weapons_forge:boss_upgrade_temp"
+  },
+  "base": {
+    "item": "jackos_bossified_weapons_forge:netherite_shears"
+  },
+  "addition": {
+    "item": "jackos_bossified_weapons_forge:sculked_shard"
+  },
+  "result": {
+    "item": "jackos_bossified_weapons_forge:catalyst_shears"
+  }
+}

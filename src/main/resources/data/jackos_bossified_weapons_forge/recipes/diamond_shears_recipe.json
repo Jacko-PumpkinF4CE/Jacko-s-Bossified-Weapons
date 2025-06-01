@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "jackos_bossified_weapons_forge:shear_upgrade_template"
+  },
+  "base": {
+    "item": "minecraft:diamond_sword"
+  },
+  "addition": {
+    "item": "minecraft:shears"
+  },
+  "result": {
+    "item": "jackos_bossified_weapons_forge:diamond_shears"
+  }
+}
